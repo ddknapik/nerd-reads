@@ -154,3 +154,34 @@ React Fiber is a new React reconciler algorithm, which is used from v16.*
 *At Box, we’re modernizing our front-end architecture with frameworks such as react and redux, as well as webpack for the build process. We’ve tackled many performance issues with the new tools and libraries adopted along the way, and would like to share how we were recently able to improve our webapp build time drastically.*
 
 #### [Understanding CORS](https://medium.com/@baphemot/understanding-cors-18ad6b478e2b)
+
+#### [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
+*Stateful, Stateless, Default Props, Render Callbacks, Component Injection, Generic Components, High Order Components, Controlled Components*
+
+#### [react-redux-tests.tsx](https://github.com/DefinitelyTyped/DefinitelyTyped/blob/master/types/react-redux/react-redux-tests.tsx)
+*Test cases written in a way to isolate types and variables and verify the output of `connect` to make sure the signature is what is expected*
+
+#### [The complete guide to static typing in "React & Redux" apps using TypeScript](https://github.com/piotrwitek/react-redux-typescript-guide)
+*This guide is a living compendium documenting the most important patterns and recipes on how to use React (and it's Ecosystem) in a functional style with TypeScript and to make your code completely type-safe while focusing on a conciseness of type annotations so it's a minimal effort to write and to maintain types in the long run.*
+
+#### [Type System Differences in TypeScript (Structural Type System) VS C# & Java (Nominal Type System)](https://www.triplet.fi/blog/type-system-differences-in-typescript-structural-type-system-vs-c-java-nominal-type-system/)
+
+#### [Workbox: JavaScript libraries for Progressive Web Apps](https://github.com/GoogleChrome/workbox)
+*Precaching, runtime caching, request routing, background sync, helpful debugging*
+
+#### [Mathias Bynens - V8 internals for JavaScript developers](https://www.youtube.com/watch?v=m9cTaYI95Zc)
+*This presentation demonstrates how learning just a little bit about JavaScript engine internals can help you improve the run-time performance of your JavaScript code — not just in V8 specifically, but across all JavaScript engines!*
+
+### Design systems
+
+#### [Fabric](https://developer.microsoft.com/en-us/fabric#/components)
+#### [Lightning](https://lightningdesignsystem.com)
+#### [Atomic Design](https://shop.bradfrost.com)
+
+
+#### [Setting up multi-platform npm packages](http://2ality.com/2017/04/setting-up-multi-platform-packages.html)
+*This blog post explains ways of targeting multiple platforms via the same npm package.*
+
+#### How to Create JavaScript Libraries in 2018
+[Part 1](https://developers.livechatinc.com/blog/how-to-create-javascript-libraries-in-2018-part-1/)  
+[Part 2](https://developers.livechatinc.com/blog/how-to-create-javascript-libraries-in-2018-part-2/)
