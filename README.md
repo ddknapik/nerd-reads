@@ -1,4 +1,4 @@
-# nice-to-read-you
+# nerd-reads
 
 #### [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)  
 *Over the years, I’ve noticed patterns in how I tend to approach component APIs and building out applications and libraries. The following is a collection of thoughts, opinions, and advice for defining component APIs that are meant to be more flexible, composable, and easier to understand. None of these are hard-and-fast rules, but they’ve helped guide the way I think about organizing and creating components.*
