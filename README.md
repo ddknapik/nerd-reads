@@ -84,6 +84,9 @@ How is tree-shaking actually done in RollupJS?*
 #### [The Tech Behind a Design System That Scales - Monica Lent](https://www.youtube.com/watch?v=nVcjaiTRgSY)
 *Most teams who end up implementing a design system do so because they need a more efficient way to propagate design ideas and their implementations across various products and codebases. They want to stop reinventing the wheel and offer a consistent experience to their end-users — but they also want to be able to adapt and adjust without a ton of manual overhead. In this talk, you'll see how SumUp uses React, Emotion, and Storybook to implement a design system that scales: in terms of people, products, and processes.*
 
+#### [Circuit Ui](https://circuit.sumup.com/#/)
+Resources, tooling, and design guidelines for building websites with Circuit UI, the web incarnation of the SumUp Circuit Design System.
+
 #### [Decrease Front-end Size](https://developers.google.com/web/fundamentals/performance/webpack/decrease-frontend-size)
 *How to use webpack to make your app as small as possible.*
 
