@@ -1,5 +1,23 @@
 # nerd-reads
 
+#### [React Awesome Toasts](https://bananabobby.github.io/react-awesome-toasts/)
+*Notifications, possible replacement for redux-flash-messages, or at least an inspiration*
+
+#### [React DnD (in TypeScript)](https://github.com/react-dnd/react-dnd/)
+*React DnD is a set of React higher-order components to help you build complex drag and drop interfaces while keeping your components decoupled.*
+
+#### [UselessPickles/ts-enum-util](https://github.com/UselessPickles/ts-enum-util)
+*Strictly typed utilities for working with TypeScript enums*
+
+#### [React events in depth w/ Kent C. Dodds, Ben Alpert, & Dan Abramov](https://www.youtube.com/watch?v=dRo_egw7tBc)
+*Based on a recent pull request in the React repo it was suggested that we chat about how events in React work. Ben and Dan were eager to have this conversation with me :)*
+
+#### [facebookincubator/redux-react-hook](https://github.com/facebookincubator/redux-react-hook)
+*React Hook for accessing state and dispatch from a Redux store*
+
+#### [Andarist/use-onclickoutside](https://github.com/Andarist/use-onclickoutside)
+*React hook for listening for clicks outside of an element*
+
 #### [Defining Component APIs in React](http://jxnblk.com/writing/posts/defining-component-apis-in-react/)  
 *Over the years, I’ve noticed patterns in how I tend to approach component APIs and building out applications and libraries. The following is a collection of thoughts, opinions, and advice for defining component APIs that are meant to be more flexible, composable, and easier to understand. None of these are hard-and-fast rules, but they’ve helped guide the way I think about organizing and creating components.*
 
